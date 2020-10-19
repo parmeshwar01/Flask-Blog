@@ -1,0 +1,16 @@
+{
+    "params":
+    {   
+        "local_server" : "True",
+        "local_uri" : "mysql://root:@localhost/antadb",
+        "prod_uri" : "mysql://root:@localhost/antadb",
+        "tw_url" : "https://www.twitter.com/anta",
+        "tag_line": "Blogging the reel world",
+        "no_of_posts": 3,
+        "login_image":"login.jpg",
+        "admin_user":"admin",
+        "admin_password": "admin123",
+        "upload_location": "c:\\Users\\Parmeshwar\\Desktop\\Flask\\static"
+
+    }
+}
